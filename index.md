@@ -2,4 +2,4 @@
 
 ## Workshop Member List
 
-- [example](/courses/example)
+- [example](/gitflow-workshop/courses/example)
